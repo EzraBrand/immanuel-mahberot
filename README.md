@@ -8,8 +8,9 @@ Immanuel ben Solomon of Rome (about 1261 to about 1335) wrote 28 *maḥberot* in
 
 | Maḥberet | Status |
 |---|---|
+| 1 (the poet's ruin, the Prince, Time, his books, his wife) | Draft, 13-Nov-2026. 1,212 lines. Allusions not verified. 9 uncertain renderings. |
 | 2 (Tamar and Beriah) | Pilot, 13-Nov-2026. 350 lines. Allusions not verified. 8 uncertain renderings. |
-| 1, 3–28 | Not started |
+| 3–28 | Not started |
 
 ## Sources
 
